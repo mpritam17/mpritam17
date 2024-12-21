@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I’m currently studying Computer Science and Engineering in IIT Kharagpur
+- 🔭 I am currently doing DSA and Competitive Programming
+- 💻 Currently I am making a collection of all the different implementations along with explanations
+      of Algorithms and Data Structures which are required in Competetive Programming.
+- 📫 How to reach me: pritamjr2005@gmail.com
 <!--
 **mpritam17/mpritam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
